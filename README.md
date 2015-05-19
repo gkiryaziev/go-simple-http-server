@@ -2,7 +2,7 @@
 
 Телефонный справочник.
 
-Тут [клиент](http://).
+Тут [клиент](https://github.com/gkiryaziev/csharp_rest_client).
 
 Использование:
 
