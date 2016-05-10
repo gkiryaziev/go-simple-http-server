@@ -1,11 +1,11 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"net/http"
-	"encoding/json"
 
-	"./models"
+	"github.com/gkiryaziev/go-simple-http-server/models"
 )
 
 func Index(w http.ResponseWriter, r *http.Request) {
